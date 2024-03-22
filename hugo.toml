@@ -3,3 +3,24 @@ languageCode = 'ja-JP'
 title = 'のぴたん係長'
 theme = "lynx"
 publishDir = "docs"
+enableEmoji = true
+enableGitInfo = true
+googleAnalytics = "G-SWFMH94FY2"
+
+[author]
+name = "のぴたん係長"
+
+[params]
+attribution = false
+
+[params.author]
+name = "のぴたん係長"
+headline = "フロムゲー大好き"
+image = "images/profile.png"
+links = [
+  { twitter = { href = "https://twitter.com/ChiefNopitan" } },
+  { twitch = { href = "https://www.twitch.tv/nopitan" } },
+  { github = { href = "https://github.com/nopitan" } },
+]
+
+[taxonomies]
