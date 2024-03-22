@@ -1,0 +1,25 @@
+{
+  "name": "nopitan.com",
+  "version": "1.0.0",
+  "description": "Nopitan's website.",
+  "private": true,
+  "author": "nopitan",
+  "license": "UNLICENSED",
+  "homepage": "https://nopitan.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nopitan/nopitan.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nopitan/nopitan.com/issues"
+  },
+  "scripts": {
+    "start": "hugo server --ignoreCache"
+  },
+  "devDependencies": {
+    "hugo-extended": "^0.124.1",
+    "prettier": "^3.2.5",
+    "prettier-plugin-go-template": "^0.0.15",
+    "prettier-plugin-toml": "^2.0.1"
+  }
+}

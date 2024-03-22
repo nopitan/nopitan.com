@@ -1,0 +1,5 @@
+baseURL = 'https://nopitan.com/'
+languageCode = 'ja-JP'
+title = 'のぴたん係長'
+theme = "lynx"
+publishDir = "docs"
