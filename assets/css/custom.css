@@ -1,9 +1,13 @@
+body {
+  background-color: rgb(250, 245, 240);
+}
+
 .link-trophy {
   background: rgb(58, 56, 196);
 }
 
 .link-niconico {
-  background: rgb(37, 37, 37);
+  background: rgb(55, 55, 55);
 }
 
 .link-clubdam {
