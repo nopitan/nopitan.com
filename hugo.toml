@@ -19,10 +19,10 @@ headline = "I love FromSoftware."
 image = "images/profile.png"
 links = [
   { twitter = { href = "https://twitter.com/ChiefNopitan", text = "Twitter (ChiefNopitan)" } },
-  { link = { href = "https://psnprofiles.com/nopitan", text = "PSN Profile (nopitan)" } },
+  { trophy = { href = "https://psnprofiles.com/nopitan", text = "Trophies (nopitan)" } },
   { twitch = { href = "https://www.twitch.tv/nopitan", text = "Twitch (nopitan)" } },
-  { link = { href = "https://com.nicovideo.jp/community/co3103323", text = "niconico (co3103323)" } },
-  { link = { href = "https://www.clubdam.com/app/damtomo/member/info/Profile.do?damtomoId=NzgyMDE5ODk", text = "DAM★とも" } },
+  { niconico = { href = "https://com.nicovideo.jp/community/co3103323", text = "niconico (co3103323)" } },
+  { clubdam = { href = "https://www.clubdam.com/app/damtomo/member/info/Profile.do?damtomoId=NzgyMDE5ODk", text = "DAM★とも" } },
   { github = { href = "https://github.com/nopitan", text = "Github (nopitan)" } },
 ]
 
