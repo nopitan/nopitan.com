@@ -2,6 +2,10 @@ body {
   background-color: rgb(250, 245, 240);
 }
 
+.mr-1 {
+  vertical-align: text-bottom;
+}
+
 .link-trophy {
   background: rgb(58, 56, 196);
 }
