@@ -13,7 +13,7 @@ jobs:
       - name: Switch to `github-pages` branch, and rebase it on top of `origin/main`
         run: git switch -c github-pages
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: latest
           extended: true
