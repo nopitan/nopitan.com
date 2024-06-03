@@ -17,7 +17,7 @@
     "start": "hugo server --ignoreCache"
   },
   "devDependencies": {
-    "hugo-extended": "^0.126.1",
+    "hugo-extended": "^0.126.2",
     "prettier": "^3.2.5",
     "prettier-plugin-go-template": "^0.0.15",
     "prettier-plugin-toml": "^2.0.1"
