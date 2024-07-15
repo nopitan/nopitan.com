@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "hugo-extended": "^0.128.0",
-    "prettier": "^3.3.2",
+    "prettier": "^3.3.3",
     "prettier-plugin-go-template": "^0.0.15",
     "prettier-plugin-toml": "^2.0.1"
   }
