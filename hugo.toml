@@ -21,7 +21,7 @@ links = [
   { twitter = { href = "https://twitter.com/ChiefNopitan", text = "Twitter (ChiefNopitan)" } },
   { trophy = { href = "https://psnprofiles.com/nopitan", text = "Trophies (nopitan)" } },
   { twitch = { href = "https://www.twitch.tv/nopitan", text = "Twitch (nopitan)" } },
-  { niconico = { href = "https://com.nicovideo.jp/community/co3103323", text = "niconico (co3103323)" } },
+  { niconico = { href = "https://www.nicovideo.jp/user/50610345", text = "niconico (50610345)" } },
   { clubdam = { href = "https://www.clubdam.com/app/damtomo/member/info/Profile.do?damtomoId=NzgyMDE5ODk", text = "DAM★とも" } },
   { twitter = { href = "https://twitter.com/EngineerNopitan", text = "Twitter (EngineerNopitan)" } },
   { github = { href = "https://github.com/nopitan", text = "Github (nopitan)" } },
