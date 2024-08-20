@@ -6,19 +6,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Clone repo
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           submodules: true
       - name: Switch to `github-pages` branch, and rebase it on top of `origin/main`
         run: git switch -c github-pages
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: latest
-          extended: true
-      - name: Run Hugo
-        run: hugo
+      - name: Install
+        run: npm ci
+      - name: Build
+        run: npm run build
       - name: Copy CNAME
         run: cp CNAME docs/
       - name: Commit docs

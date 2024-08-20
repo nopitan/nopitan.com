@@ -14,7 +14,8 @@
     "url": "https://github.com/nopitan/nopitan.com/issues"
   },
   "scripts": {
-    "start": "hugo server --ignoreCache"
+    "start": "hugo server --ignoreCache",
+    "build" : "hugo"
   },
   "devDependencies": {
     "hugo-extended": "^0.132.2",
