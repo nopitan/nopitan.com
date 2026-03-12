@@ -18,12 +18,12 @@ name = "のぴたん係長"
 headline = "I love FromSoftware."
 image = "images/profile.png"
 links = [
-  { twitter = { href = "https://twitter.com/ChiefNopitan", text = "Twitter (ChiefNopitan)" } },
+  { x = { href = "https://x.com/ChiefNopitan", text = "X (ChiefNopitan)" } },
   { trophy = { href = "https://psnprofiles.com/nopitan", text = "Trophies (nopitan)" } },
   { twitch = { href = "https://www.twitch.tv/nopitan", text = "Twitch (nopitan)" } },
   { niconico = { href = "https://www.nicovideo.jp/user/50610345", text = "niconico (50610345)" } },
   { clubdam = { href = "https://www.clubdam.com/app/damtomo/member/info/Profile.do?damtomoId=NzgyMDE5ODk", text = "DAM★とも" } },
-  { twitter = { href = "https://twitter.com/EngineerNopitan", text = "Twitter (EngineerNopitan)" } },
+  { x = { href = "https://x.com/EngineerNopitan", text = "X (EngineerNopitan)" } },
   { github = { href = "https://github.com/nopitan", text = "Github (nopitan)" } },
 ]
 
